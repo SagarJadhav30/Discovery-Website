@@ -40,42 +40,46 @@ npm install
 
 # Start the development server
 npm run dev
-```
 
 ## Project Structure
 
-```
 ├── docs/                # Documentation files
 ├── public/              # Static assets
 │   ├── event-images/    # Event-related images
-│   ├── docs/           # PDF documents
+│   ├── docs/            # PDF documents
 │   ├── favicon.ico
 │   └── robots.txt
 ├── src/
 │   ├── components/      # Reusable UI components
-│   │   ├── ui/         # shadcn/ui components
+│   │   ├── ui/          # shadcn/ui components
 │   │   ├── HeroSection.tsx
 │   │   ├── EventsList.tsx
 │   │   └── ...
-│   ├── data/           # Static data files
-│   ├── hooks/          # Custom React hooks
-│   ├── lib/            # Utility functions
-│   ├── pages/          # Page components
-│   └── utils/          # Helper utilities
-└── backend/            # Backend API server
-```
+│   ├── data/            # Static data files
+│   ├── hooks/           # Custom React hooks
+│   ├── lib/             # Utility functions
+│   ├── pages/           # Page components
+│   └── utils/           # Helper utilities
+└── backend/             # Backend API server
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
+Contributing
 
-## Contact
+Fork the repository
+
+Create a feature branch
+
+Make your changes
+
+Submit a pull request
+
+Contact
 
 For questions about Discovery 2K25, please contact ADCET, Ashta.
 
-## License
+License
 
 This project is open source and available under the MIT License.
+
+
+
